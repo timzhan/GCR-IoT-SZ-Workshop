@@ -9,7 +9,7 @@
 
     https://azure.microsoft.com/en-us/free/
     
-    * [Azure Global free trial 申请](Azure%20Global试用申请.pptx)
+    * [Azure Global free trial 申请](Azure试用申请.pdf)
   
 3. 在线树莓派模拟器
     
